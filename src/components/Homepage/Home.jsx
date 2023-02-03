@@ -1,6 +1,7 @@
 import { BusinessCard } from "../BusinessCard/BusinessCard"
 import { Navbar } from "../Navbar/Navbar"
 import { PartnerLogo } from "../PartnerLogo/PartnerLogo"
+import { Services } from "../Services/Services"
 
 
 export const Home = () =>{
@@ -9,6 +10,7 @@ export const Home = () =>{
             <Navbar/>
             <BusinessCard/>
             <PartnerLogo/>
+            <Services/>
         </div>
     )
 }
