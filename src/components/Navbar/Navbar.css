@@ -1,7 +1,7 @@
 #NavDiv{
     display: flex;
     flex-direction: row;
-    width: 80%;
+    width: 90%;
     margin: auto;
 }
 #logo{
@@ -28,4 +28,5 @@
     height: 50px;
     border-radius: 25px;
     background: none;
+    border: 0.5px solid purple;
 }

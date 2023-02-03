@@ -1,0 +1,58 @@
+#businessDiv{
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 80px;
+}
+#businessContent{
+   height: 500px;
+   width: 50%;
+}
+#posterGirl{
+   height: 500px;
+   width: 50%;
+}
+#recordWord{
+    color: rgb(249, 162, 0);
+    font-size: 20px;
+    font-weight: bold;
+}
+#goalWord{
+    font-size: 55px;
+    font-weight: bold;
+    width: 600px;
+}
+#middleText{
+    font-size: 20px;
+    color: grey;
+    width: 600px;
+}
+#getBtn{
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    border: 1px solid white;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    background: rgb(230, 34, 125);
+}
+#BtnAnchor{
+    display: flex;
+    flex-direction: row;
+}
+#anchorTag{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+    
+}
+#anchorText{
+    margin-top: 10px;
+}
+#posterImg{
+    width: 600px;
+    height: 500px;
+}
