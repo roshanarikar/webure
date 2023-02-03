@@ -1,0 +1,13 @@
+#partnerDiv{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    justify-content: space-between;
+}
+.partnerLogo{
+    margin-top: 70px;
+    width: 180px;
+    height: 50px;
+}

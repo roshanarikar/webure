@@ -1,5 +1,6 @@
 import { BusinessCard } from "../BusinessCard/BusinessCard"
 import { Navbar } from "../Navbar/Navbar"
+import { PartnerLogo } from "../PartnerLogo/PartnerLogo"
 
 
 export const Home = () =>{
@@ -7,6 +8,7 @@ export const Home = () =>{
         <div>
             <Navbar/>
             <BusinessCard/>
+            <PartnerLogo/>
         </div>
     )
 }
