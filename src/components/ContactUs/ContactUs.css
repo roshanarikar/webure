@@ -1,0 +1,40 @@
+.check{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(215, 215, 215);
+    border-radius: 20px;
+}
+#ContactDiv{
+    display: flex;
+    width: 90%;
+    margin: auto;   
+    background-color: rgb(64, 34, 92);
+    color: white;
+    margin-bottom: 50px;
+}
+#imgDiv{
+    width: 50%;
+}
+#choseDiv{
+    width: 40%;
+    margin: auto;
+}
+#emailBtn{
+    display: flex;
+}
+#input{
+    border: none;
+    background-color: rgb(64, 34, 92);
+    border-bottom: 1px solid white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+input::placeholder{
+    color: white;
+}
+#ChooseText{
+    font-size: 45px;
+}
+.contactText{
+    font-size: 20px;
+}

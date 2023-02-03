@@ -19,7 +19,7 @@ export const BusinessCard = () => {
           </p>
         </div>
         <div id="BtnAnchor">
-            <div><button id="getBtn">Get Started</button></div>
+            <div><button className="getBtn">Get Started</button></div>
             <div id="anchorText"><a href="/" id="anchorTag">Book a 30 Mins Quick Meeting </a></div>
         </div>
       </div>

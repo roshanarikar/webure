@@ -29,7 +29,7 @@
     color: grey;
     width: 600px;
 }
-#getBtn{
+.getBtn{
     width: 200px;
     height: 50px;
     border-radius: 30px;
