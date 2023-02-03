@@ -1,0 +1,31 @@
+#NavDiv{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin: auto;
+}
+#logo{
+    width: 25%;
+    padding-left: 8%;
+    color: red;
+    font-weight: bold;
+    font-size: 22px;
+}
+#SmallNavDiv{
+    width: 75%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    color: grey;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#talkBtn{
+    width: 120px;
+    color: black;
+    font-size: 14px;
+    height: 50px;
+    border-radius: 25px;
+    background: none;
+}
